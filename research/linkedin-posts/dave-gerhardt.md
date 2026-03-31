@@ -3,6 +3,7 @@
 ## Executive Snapshot
 - **Creator:** Dave Gerhardt
 - **Platform:** LinkedIn
+- **Profile:** https://www.linkedin.com/in/davegerhardt/
 - **Core domain:** B2B marketing, brand building, demand generation, community-led growth
 - **Strategic signal:** In modern B2B, education-led content and strong brand narrative create pipeline efficiency.
 

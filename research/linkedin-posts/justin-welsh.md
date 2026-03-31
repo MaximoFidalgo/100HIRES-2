@@ -3,6 +3,7 @@
 ## Executive Snapshot
 - **Creator:** Justin Welsh
 - **Platform:** LinkedIn
+- **Profile:** https://www.linkedin.com/in/justinwelsh/
 - **Core domain:** Personal branding, content systems, and B2B audience growth
 - **Strategic signal:** High-performing creator-led growth is built on repeatable systems, not one-off viral wins.
 
@@ -26,7 +27,7 @@
 ## Post Analysis (Selected)
 
 ## Post 1 - Consistency Over Virality
-- **Link:** https://www.linkedin.com/posts/justinwelsh_layoffs-have-a-way-of-reminding-us-about-activity-7442900256519852032-u2Hy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFx3uxoBr4zPiAZKYuaAyxVaQDYk1hao_20
+- **Link:** https://www.linkedin.com/posts/justinwelsh_layoffs-have-a-way-of-reminding-us-about-activity-7442900256519852032-u2Hy
 - **Format:** Educational
 - **Core idea:** Consistency beats virality for long-term audience and trust building.
 - **Why it performs:**
@@ -38,7 +39,7 @@
 ---
 
 ## Post 2 - Frameworks Beat Motivation
-- **Link:** https://www.linkedin.com/posts/justinwelsh_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFx3uxoBr4zPiAZKYuaAyxVaQDYk1hao_20
+- **Link:** https://www.linkedin.com/posts/justinwelsh_a-lot-of-business-comes-down-to-who-you-know-activity-7436029984021991424-N8j4
 - **Format:** Educational
 - **Core idea:** Simple frameworks reduce cognitive load and make publishing scalable.
 - **Why it performs:**
@@ -50,7 +51,7 @@
 ---
 
 ## Post 3 - Content Engine to Revenue Engine
-- **Link:** https://www.linkedin.com/posts/justinwelsh_the-heart-of-my-8-figure-business-is-a-messy-activity-7434218042202664960-5rdj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFx3uxoBr4zPiAZKYuaAyxVaQDYk1hao_20
+- **Link:** https://www.linkedin.com/posts/justinwelsh_the-heart-of-my-8-figure-business-is-a-messy-activity-7434218042202664960-5rdj
 - **Format:** Educational / Visual
 - **Core idea:** A lightweight content engine can evolve into a meaningful business.
 - **Why it performs:**

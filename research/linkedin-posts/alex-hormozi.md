@@ -3,6 +3,7 @@
 ## Executive Snapshot
 - **Creator:** Alex Hormozi
 - **Platform:** LinkedIn
+- **Profile:** https://www.linkedin.com/in/alexhormozi/
 - **Core domain:** Growth strategy, customer acquisition, brand building, operational leverage
 - **Strategic signal:** Treat content like a revenue-driving investment system. Budget, measure, and reallocate based on business outcomes (not vibes or vanity metrics).
 
@@ -43,7 +44,7 @@
 ---
 
 ## Post 2 - Build the Money-Making System (Brand + People + Priorities)
-- **Link:** https://www.linkedin.com/feed/update/urn:li:activity:7195822856973242369/
+- **Link:** https://www.linkedin.com/posts/alexhormozi_alexhormozi-acquisition-sales-activity-7195822856973242369-gLCP
 - **Format:** Educational / Founder insight
 - **Core idea:** Lessons from a $46.2M sale emphasize brand as a durable asset, talent quality as a multiplier, and systems thinking for scale.
 - **Why it matters:**
@@ -61,7 +62,7 @@
 ---
 
 ## Post 3 - Outperforming People Is Usually Fundamentals
-- **Link:** https://www.linkedin.com/feed/update/urn:li:activity:7193286141993799680/
+- **Link:** https://www.linkedin.com/posts/alexhormozi_alexhormozi-acquisition-sales-activity-7193286141993799680-DMup
 - **Format:** Educational / Operational excellence
 - **Core idea:** Outperformance rarely requires novelty; it requires mastering fundamentals like preparation, punctuality, follow-up, execution quality, and continuous improvement.
 - **Why it matters:**

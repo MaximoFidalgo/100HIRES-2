@@ -4,10 +4,11 @@
 
 - **Creator:** Amanda Natividad
 - **Platform:** LinkedIn
-- **Core domain:** Content distribution, zero-click content, audience growth, B2B SaaS marketing
-- **Strategic signal:** **Distribution is not a step after creation—it is part of the product.** Zero-click, native value on-platform earns reach and trust when algorithms and buyers both reward immediacy over “click away to read.”
+- **Profile:** https://www.linkedin.com/in/amandanat/
+- **Core domain:** Zero-click / platform-native content, distribution and repurposing, audience building, B2B marketing (widely associated with **SparkToro** and popularizing **zero-click content** with Rand Fishkin)
+- **Strategic signal:** **Distribution is not a step after creation—it is part of the product.** Native value on-platform earns reach and trust when **platform economics** punish outbound links and **attention compounds** in the feed before (and alongside) site visits.
 
-> Natividad’s framing is especially useful for **LinkedIn organic**: the feed is the product surface; optimizing only for clicks can **undermine** distribution, especially when the platform deprioritizes outbound links.
+> Her public posts below use the LinkedIn handle **`amandanat`** in permalinks—consistent with her profile URL.
 
 ---
 
@@ -31,51 +32,51 @@
 
 ## Post Analysis (Selected)
 
-### Post 1 — Zero-Click Content Is the Future
+### Post 1 — “But If I Do Zero-Click Marketing, How Will People Go to My Website?”
 
-- **Link:** https://www.linkedin.com/posts/amandanat_zero-click-content-is-the-future-activity-7050137036249395200-0P1T
+- **Link:** https://www.linkedin.com/posts/amandanat_but-if-i-do-zero-click-marketing-how-will-activity-7216456099938410496-h7dO
 - **Format:** Educational / Strategic
-- **Core idea:** Deliver the **full value inside the platform** instead of defaulting to “link in comments” or forcing a jump to your site.
+- **Core idea:** **Zero-click marketing does not mean “never” sending people to your site.** It means you **cannot depend on platforms to hand you traffic**—so you build **trust and demand in-feed**, and people **choose** to visit when they are ready.
 - **Why it performs:**
-  - Names a clean mental model CEOs can repeat: **zero-click** = complete utility without leaving the feed.
-  - Aligns with how feeds rank and reward **dwell time** and native engagement.
+  - Addresses the **#1 objection** executives raise, in plain language.
+  - Reframes the goal from **forced clicks** to **compounding familiarity and pull**.
 - **Deeper executive lens:**
-  - **Clicks are a means, not the mission.** In B2B, trust and recall often compound from **repeated, low-friction exposure** to sharp thinking—not from one blog visit.
-  - Over-rotating on CTR can **train the algorithm and the audience** away from your best ideas if posts feel like teasers instead of substance.
-- **Business implication:** You can grow **reachable, addressable attention** on-platform while still using links **selectly** for deep assets (reports, demos) where intent is high. 📱
-- **What to copy:** Design posts so **80–90% of the insight lives in the post**; use links as optional depth, not a dependency.
+  - **Clicks are a means, not the mission.** In B2B, repeat exposure to sharp thinking often precedes any measurable site visit or form fill.
+  - Over-optimizing for CTR can produce **teaser content** that under-delivers in the feed—training both algorithms and readers to scroll past.
+- **Business implication:** Grow **reachable, addressable attention** on-platform; use **destination links** for high-intent moments (deep reports, demos, pricing)—not as the default for every post. 📱
+- **What to copy:** Design posts so **most of the insight lives natively**; treat links as **optional depth**, not a prerequisite for value.
 
 ---
 
-### Post 2 — Distribution Beats Creation (Alone)
+### Post 2 — Your Blog Post Is Not a Standalone Artifact
 
-- **Link:** https://www.linkedin.com/posts/amandanat_content-distribution-is-more-important-activity-7042529160459798528-5KpP
-- **Format:** Educational / Contrarian insight
-- **Core idea:** **Distribution is more important than creation**—not because writing doesn’t matter, but because **unseen content has zero commercial leverage.**
+- **Link:** https://www.linkedin.com/posts/amandanat_your-blog-post-is-not-a-standalone-artifact-activity-7321186172414689280-HMoc
+- **Format:** Educational / Operational
+- **Core idea:** A long-form piece is a **starting point**, not a tombstone. **One strong idea** should propagate across **formats and surfaces**—otherwise teams “hit publish once” and leave distribution on the table.
 - **Why it performs:**
-  - Contrarian enough to stop the scroll; **operationally true** for most B2B teams.
-  - Shifts budget conversations from “more writers” to “how we **propagate** what works.”
+  - Names a **repeatable operating failure** (publish-and-pivot) every marketing org recognizes.
+  - Connects **creative** to **GTM mechanics**: angles, repurposing, and lifecycle.
 - **Deeper executive lens:**
-  - CEOS should treat distribution like **GTM infrastructure**: calendars, angles, spokespeople, repurposing, and seeding—not one-off launches.
-  - A small library of **high-leverage ideas** distributed well will beat a large library that dies in a CMS.
-- **Business implication:** Improve **effective reach per asset** before you increase **asset count**—otherwise you scale waste, not outcomes. 📣
-- **What to copy:** For every pillar piece, define **minimum distribution surfaces** (founder post, company page, newsletter snippet, sales 1-pager, partner note).
+  - **Distribution is infrastructure**: calendars, owners, repurposing, and seeding—not a single launch post.
+  - A compact library of **high-leverage ideas**, amplified well, beats a large library that **dies in the CMS**.
+- **Business implication:** Improve **effective reach per asset** before raising **asset count**—otherwise you scale waste, not outcomes. 📣
+- **What to copy:** For every pillar asset, define **minimum distribution surfaces** (founder post, company page, newsletter snippet, sales snippet, partner note) and **minimum format variants** (short post, thread, slide, quote card).
 
 ---
 
-### Post 3 — From Traffic to Audience
+### Post 3 — The Huge Problems We’re Dealing With in Marketing Today
 
-- **Link:** https://www.linkedin.com/posts/amandanat_marketing-is-no-longer-about-traffic-activity-7035339828232626176-WlP2
+- **Link:** https://www.linkedin.com/posts/amandanat_in-a-nutshell-here-are-the-huge-problems-activity-7197278523311415296-Bjb-
 - **Format:** Strategic / Opinion-led
-- **Core idea:** Marketing is shifting from **chasing spikes of traffic** to **building an audience** and **relationships** that compound.
-- **Why it matters:**
-  - Traffic is episodic; **audience** is an asset—especially in long-cycle B2B where trust wins before procurement.
-  - Aligns LinkedIn strategy with **repeat exposure** and **recognition**, not one hit wonders.
+- **Core idea:** **Platforms are hoarding attention and penalizing off-platform exits** (e.g., high zero-click SERP behavior; feeds that suppress or de-prioritize links). Marketing has to succeed **where people actually consume**, not only where analytics dashboards prefer.
+- **Why it performs:**
+  - Gives leaders a **macro story** (platform economics) that justifies **zero-click and native craft** without sounding like “social media tips.”
+  - Aligns LinkedIn strategy with **repeat exposure** and **recognition** in the feed—not one-off traffic spikes.
 - **Deeper executive lens:**
-  - **Anonymous traffic** rarely compounds; **recognized presence** (who shows up + what they’re known for) does.
-  - For executives, this implies **consistent POV** and **visible participation** (comments, dialogue), not only campaign bursts.
-- **Business implication:** Invest in **recurring formats** and **narrative continuity** so the market associates your brand with a small set of sharp ideas. 🤝
-- **What to copy:** Publish to a **content thesis** (“three bets we make about the industry”) instead of a disconnected editorial calendar.
+  - **“Traffic” as a vanity layer** can hide the real game: **being present, trusted, and remembered** when the buying committee convenes.
+  - **Anonymous sessions** rarely compound; **recognized voice + consistent POV** does—especially in long-cycle B2B.
+- **Business implication:** Invest in **recurring formats** and **narrative continuity** so the market associates your brand with a **small set of sharp ideas**—and measure **trust signals** (saves, DMs, sales call mentions), not only sessions. 🤝
+- **What to copy:** Publish against a **content thesis** (a few durable bets about the industry) instead of a disconnected editorial calendar; report on **platform-native outcomes** leadership actually believes in.
 
 ---
 
@@ -104,7 +105,7 @@
   - Define **3 narrative pillars** and **2 recurring formats** per pillar.
   - Add a **distribution checklist** to every asset (who posts, when, how it’s sliced, how sales uses it).
 - **Days 31–60: Zero-click execution**
-  - Run A/B learning on posts where **insight density** is high and links are optional.
+  - Run learning cycles on posts where **insight density** is high and links are optional.
   - Measure **saves, follow growth, profile visits, and DMs** alongside impressions—not clicks alone.
 - **Days 61–90: Compounding**
   - Turn top performers into **series** (same hook structure, evolving thesis).
@@ -133,7 +134,7 @@
 
 ## Bottom Line
 
-Amanda Natividad’s perspective is CEO-grade for LinkedIn organic: **win the feed with complete, native value, engineer distribution deliberately, and build an audience that compounds** instead of chasing disposable traffic. The executive opportunity is to fund **distribution and narrative consistency** as first-class growth infrastructure—not as an afterthought to content production.
+Amanda Natividad’s perspective is CEO-grade for LinkedIn organic: **win the feed with complete, native value, engineer distribution and repurposing deliberately, and build an audience that compounds** instead of chasing disposable traffic. The executive opportunity is to fund **distribution and narrative consistency** as first-class growth infrastructure—not as an afterthought to content production.
 
 ---
 

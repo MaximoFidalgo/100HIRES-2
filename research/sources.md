@@ -14,11 +14,11 @@ This research pack turns **how top operators actually behave in public** into **
 
 ---
 
-## Resumen para dirección (ES)
+## Leadership snapshot
 
-- **Qué es:** análisis de **operadores B2B SaaS** de primer nivel y sus **patrones** en LinkedIn (y material en video) para **demanda, marca y eficiencia comercial**.
-- **Para qué sirve:** alinear **contenido orgánico** con **posicionamiento**, **distribución** y **resultados de negocio**, no solo con métricas de alcance.
-- **Cómo usarlo:** leer **`content-patterns.md`** como síntesis; profundizar por experto en **`linkedin-posts/`** y **`youtube-transcripts/`**.
+- **What this is:** Analysis of **top B2B SaaS operators** and their **patterns** on LinkedIn (plus supporting video notes) for **demand, brand, and commercial efficiency**.
+- **What it’s for:** Aligning **organic content** with **positioning**, **distribution**, and **business outcomes**—not reach metrics alone.
+- **How to use it:** Read **`content-patterns.md`** as the synthesis; go deeper per expert in **`linkedin-posts/`** and **`youtube-transcripts/`**.
 
 ---
 
@@ -87,4 +87,4 @@ flowchart TB
 
 ---
 
-*Built for **decisions**, not slides for their own sake. Paths stay in English so they match the repo and deep-link cleanly from this page.*
+*Built for **decisions**, not slides for their own sake. File paths match the repo and deep-link cleanly from the [README](../README.md).*

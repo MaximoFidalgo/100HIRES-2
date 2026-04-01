@@ -1,129 +1,90 @@
-# Sources
+# LinkedIn Organic Content — B2B SaaS Research Map
 
-## Topic
-LinkedIn Organic Content Strategy for B2B SaaS
+**Curated operator intelligence · Demand, narrative, and pipeline**
 
-## Selection Criteria
-I selected experts who:
-- actively publish about B2B SaaS growth, content, or demand generation
-- are practitioners, founders, or operators (not just theorists)
-- share tactical insights and real experiences
-- have recent and consistent content on LinkedIn, YouTube, or podcasts
-- provide high-signal content that can support a real strategy
+![Strategic perspective — scale and clarity](https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1600&q=80)
 
 ---
 
-## Experts
+## Executive thesis
 
-### 1. Justin Welsh
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/justinwelsh/
-- Why selected:
-  - Known for building a strong personal brand in B2B
-  - Shares clear systems for content and audience growth
-- Content collected:
-  - LinkedIn posts
-  - Content frameworks
+> **Organic LinkedIn is not a “social” line item—it is a compounding layer of demand, trust, and narrative when it sits inside positioning, distribution, and commercial measurement.**
+
+This research pack turns **how top operators actually behave in public** into **patterns** a leadership team can stress-test against their own GTM—not academic theory.
 
 ---
 
-### 2. Dave Gerhardt
-- Primary platform: LinkedIn / Podcast
-- Link: https://www.linkedin.com/in/davegerhardt/
-- Why selected:
-  - Strong focus on B2B brand and demand generation
-  - Shares real marketing insights from experience
-- Content collected:
-  - LinkedIn posts
-  - Podcast insights
+## Resumen para dirección (ES)
+
+- **Qué es:** análisis de **operadores B2B SaaS** de primer nivel y sus **patrones** en LinkedIn (y material en video) para **demanda, marca y eficiencia comercial**.
+- **Para qué sirve:** alinear **contenido orgánico** con **posicionamiento**, **distribución** y **resultados de negocio**, no solo con métricas de alcance.
+- **Cómo usarlo:** leer **`content-patterns.md`** como síntesis; profundizar por experto en **`linkedin-posts/`** y **`youtube-transcripts/`**.
 
 ---
 
-### 3. Chris Walker
-- Primary platform: LinkedIn / YouTube
-- Link: https://www.linkedin.com/in/chriswalker171/
-- Why selected:
-  - Expert in B2B demand generation
-  - Focus on pipeline and real business impact
-- Content collected:
-  - LinkedIn posts
-  - YouTube videos
+## 📌 At a glance
+
+| | |
+|---|---|
+| **Scope** | ~**10** high-signal B2B SaaS / GTM voices |
+| **Artifacts** | LinkedIn post briefs, YouTube theme notes, cross-author synthesis |
+| **Output** | Repeatable **patterns**, not a generic “post more” checklist |
+| **Bias** | **Real-world growth thinking**—what ships in public and scales in market |
 
 ---
 
-### 4. Amanda Natividad
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/amandanat/
-- Why selected:
-  - Strong focus on content-led growth
-  - Shares actionable frameworks
-- Content collected:
-  - LinkedIn posts
+## What this project includes
+
+- **Operator research** — Profiles and posts chosen for **demand gen, positioning, distribution, and systems thinking**
+- **LinkedIn intelligence** — Per-author briefs with **strategic interpretation** and verified public links where captured
+- **Pattern synthesis** — `other/content-patterns.md`: **six** recurring themes + **playbook** hooks for leadership
+- **Video layer** — YouTube notes (e.g. Walker, Hormozi) framing **content as demand / capital**
 
 ---
 
-### 5. Ross Simmonds
-- Primary platform: LinkedIn / Blog
-- Link: https://www.linkedin.com/in/rosssimmonds/
-- Why selected:
-  - Content distribution expert
-  - Focus on amplification and reach
-- Content collected:
-  - LinkedIn posts
-  - Articles
+## Objective
+
+To clarify how **LinkedIn organic** can function as a **scalable** channel for **acquisition and demand** in B2B SaaS: **creation + distribution + narrative + measurement**—with **pipeline quality** and **sales efficiency** in view, not vanity alone.
 
 ---
 
-### 6. Anthony Pierri
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/anthonypierri/
-- Why selected:
-  - Strong positioning and messaging insights
-  - Focus on clarity and differentiation
-- Content collected:
-  - LinkedIn posts
+## 🗂️ Repository structure
+
+```mermaid
+flowchart TB
+  S["sources.md — you are here"]
+  L["linkedin-posts/ — per-expert briefs"]
+  Y["youtube-transcripts/ — video themes"]
+  O["other/ — cross-author patterns"]
+  S --> L
+  S --> Y
+  S --> O
+```
+
+| Path | Purpose |
+|------|---------|
+| `research/sources.md` | **Selection context** and map of the research corpus |
+| `research/linkedin-posts/` | **Collected content** and executive-style analysis |
+| `research/youtube-transcripts/` | **Long-form** arguments (demand, content systems) |
+| `research/other/` | **Synthesis** — e.g. `content-patterns.md` |
 
 ---
 
-### 7. Tas Bober
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/tasbober/
-- Why selected:
-  - Experience in B2B SaaS marketing
-  - Shares practical insights and lessons
-- Content collected:
-  - LinkedIn posts
+## 🎯 Strategic focus
+
+- **Demand generation** — Create and shape preference, not only capture forms  
+- **Content strategy** — Goals, leverage, and **compounding** over time  
+- **Founder / executive voice in B2B** — Trust **before** the sales conversation  
+- **Pipeline & efficiency** — What **sales** and **revops** should feel downstream  
 
 ---
 
-### 8. Maddy Martin
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/maddymartin/
-- Why selected:
-  - Focus on growth and storytelling
-  - Strong SaaS background
-- Content collected:
-  - LinkedIn posts
+## Where to start (60 seconds)
+
+1. Open **`research/other/content-patterns.md`** for the **cross-expert** executive view.  
+2. Pick **one** author in **`research/linkedin-posts/`** closest to your current gap (e.g. positioning vs. distribution).  
+3. Reconcile **public narrative** with **internal pitch**—same test April Dunford / Anthony Pierri stacks imply.
 
 ---
 
-### 9. Liam Bartholomew
-- Primary platform: LinkedIn
-- Link: https://www.linkedin.com/in/liambartholomew/
-- Why selected:
-  - Focus on B2B SaaS growth strategy
-  - Shares practical content ideas
-- Content collected:
-  - LinkedIn posts
-
----
-
-### 10. Alex Hormozi
-- Primary platform: LinkedIn / YouTube
-- Link: https://www.linkedin.com/in/alexhormozi/
-- Why selected:
-  - Strong expertise in value creation and marketing
-  - High-signal content and clear frameworks
-- Content collected:
-  - LinkedIn posts
-  - Videos
+*Built for **decisions**, not slides for their own sake. Paths stay in English so they match the repo and deep-link cleanly from this page.*

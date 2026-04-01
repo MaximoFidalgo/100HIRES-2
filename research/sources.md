@@ -87,4 +87,11 @@ flowchart TB
 
 ---
 
+## LinkedIn post links (`linkedin-posts/`)
+
+- **Format:** `https://www.linkedin.com/posts/{memberSlug}_{descriptive-slug}-activity-{activityId}-{suffix}` (canonical public permalinks).
+- **Verification:** Each post URL in this corpus was checked (March 2026) and returned a **public** post page for the correct author. LinkedIn may later require sign-in for some regions or A/B tests—re-spot-check before a board or client readout.
+
+---
+
 *Built for **decisions**, not slides for their own sake. File paths match the repo and deep-link cleanly from the [README](../README.md).*
